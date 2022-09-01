@@ -1,3 +1,5 @@
 # Git-ex2
+.....Java
 
-Hello ,This is a simple ReadMe File for Training.
+System.out.println("Hello World");
+.......
